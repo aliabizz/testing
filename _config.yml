@@ -1,1 +1,21 @@
+title: Just the Docs Template
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://just-the-docs.github.io
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Jekyll Website</title>
+</head>
+<body>
+    <iframe src="https://bizanu29.github.io/BMI-KnowledgeHub" style="width:100%; height:100vh; border:none;"></iframe>
+</body>
+</html>
 
