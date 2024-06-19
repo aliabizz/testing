@@ -22,6 +22,10 @@ To get started with creating a site, simply:
 2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
 
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+---
+title: Development
+layout: Development
+---
 
 ----
 
